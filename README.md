@@ -1,6 +1,6 @@
 # Hair Day
 
-<img src="assets/hair-day.png" alt="Imagem do site hair day" width="100%" style="display: block; margin: 0 auto" />
+<img src="src/assets/hair-day.png" alt="Imagem do site hair day" width="100%" style="display: block; margin: 0 auto" />
 <p>
   Aplicativo web para o agendamento de horários para salão de beleza. Pensado para ser usando pelo atendente do salão.
   Desenvolvido durante a formação MBA Fullstack Rocketseat no modulo Java script antes do Framework, com o objetivo de 
